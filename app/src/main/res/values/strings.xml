@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name"> Dev Portfofolio</string>
+    <string name="dev_name">Iulia Puiu</string>
+    <string name="dev_profession">Mobile Developer</string>
+
+    <string name="about_iulia">Hi, my name is Iulia.
+        "\n"I am a passionate, self-taught app developer, specialized in the Android and iOS platforms.
+        "\n"With great communication skills, my aim is to understand the client\'s needs and deliver the right product for the end users.
+        "\n"Having a learning mindset, my goal is to grow while building great software.
+    </string>
+    <string name="skills">* Java "\n"* Android Studio "\n"* React Native "\n"* Javascript "\n"* WordPress (Bootstrap/PHP/HTML/CSS) </string>
+    <string name="work">* Do It with Pomo - Task Tracking App
+        "\n"* Gardenia - Flower Shop with WooCommerce back-end
+        "\n"* Breathe App
+        "\n"* Motivational App
+        "\n"* Reflex Game
+        "\n"* Weather App
+    </string>
+    <string name="contact">* LinkedIn: https://www.linkedin.com/in/iuliapuiu/
+                            "\n"* Github: https://github.com/puiu-iulia
+                            "\n"* Instagram: @codemaps
+                            "\n"* Email: iulia.puiu@terrastorm.tech
+                            "\n"* Skype: iulia.puiu@hotmail.com
+    </string>
+</resources>
